@@ -1,3 +1,7 @@
+## web scrolling using BeautifulSoup library in python.
+## Extracting weather forecast of current week 23.548N87.293E89_Asia%2F Calcutta.
+## You can change the Location as required in url (requests.get(your_weather_urls).
+
 from bs4 import BeautifulSoup
 import requests
 import csv
